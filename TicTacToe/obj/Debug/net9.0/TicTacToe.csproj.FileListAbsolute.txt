@@ -1,0 +1,14 @@
+C:\msys64\home\oshad\TicTacToe\bin\Debug\net9.0\TicTacToe.exe
+C:\msys64\home\oshad\TicTacToe\bin\Debug\net9.0\TicTacToe.deps.json
+C:\msys64\home\oshad\TicTacToe\bin\Debug\net9.0\TicTacToe.runtimeconfig.json
+C:\msys64\home\oshad\TicTacToe\bin\Debug\net9.0\TicTacToe.dll
+C:\msys64\home\oshad\TicTacToe\bin\Debug\net9.0\TicTacToe.pdb
+C:\msys64\home\oshad\TicTacToe\obj\Debug\net9.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\msys64\home\oshad\TicTacToe\obj\Debug\net9.0\TicTacToe.AssemblyInfoInputs.cache
+C:\msys64\home\oshad\TicTacToe\obj\Debug\net9.0\TicTacToe.AssemblyInfo.cs
+C:\msys64\home\oshad\TicTacToe\obj\Debug\net9.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\msys64\home\oshad\TicTacToe\obj\Debug\net9.0\TicTacToe.dll
+C:\msys64\home\oshad\TicTacToe\obj\Debug\net9.0\refint\TicTacToe.dll
+C:\msys64\home\oshad\TicTacToe\obj\Debug\net9.0\TicTacToe.pdb
+C:\msys64\home\oshad\TicTacToe\obj\Debug\net9.0\TicTacToe.genruntimeconfig.cache
+C:\msys64\home\oshad\TicTacToe\obj\Debug\net9.0\ref\TicTacToe.dll
